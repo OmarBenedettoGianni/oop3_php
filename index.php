@@ -94,3 +94,5 @@ class Amphibian extends ColdBlood{
         echo "Sono un anfibio \n";
     }
 }
+
+$cane = new Mammal();
